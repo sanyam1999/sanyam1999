@@ -7,7 +7,5 @@ You can click the Preview link to take a look at your changes.
 <p>My name is Sanyam Jain and I'm an undergraduate student pursuing Bachelor's in Technology from Jaypee Institute of Information and Technology.</p>
 
 <h2>Let's Connect</h2>
-<p>You can find me on</p>
-<img height="32" width="32" src="C:\Users\sanya\Downloads\facebook-app.png"/> , or on 
-
-[![LinkedIn][3.2]][3].
+<p>
+<a href="https://www.facebook.com/sanyam.noni"><img height="32" width="32" src="/facebook-app.png"></a> <a href="linkedin.com/in/sanyam-jain-b409671b2"><img height="32" width="32" src="/linkedin-app.png"></a> </p>
