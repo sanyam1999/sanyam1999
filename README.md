@@ -4,7 +4,7 @@ sanyam1999/sanyam1999 is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 <h1>Hello visitor👋</h1>
-<p>My name is Sanyam Jain and I'm an undergraduate student pursuing Bachelor's in Technology from Jaypee Institute of Information and Technology.</p>
+<p>My name is Sanyam Jain and I'm an undergraduate student pursuing B.Tech in Electronics and Communication Engineering from Jaypee Institute of Information and Technology.</p>
 
 <h2>Let's Connect</h2>
 <p>
